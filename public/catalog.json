@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AKS Cluster",
+    "description": "Deploy Azure Kubernetes Service",
+    "cloud": "Azure",
+    "module": "aks-module"
+  },
+  {
+    "name": "GKE Cluster",
+    "description": "Deploy Google Kubernetes Engine",
+    "cloud": "GCP",
+    "module": "gke-module"
+  }
+]
